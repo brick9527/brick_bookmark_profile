@@ -73,8 +73,11 @@ The `.bbmk` encrypted backup format lets you safely take your bookmark library o
 ## Download & Support
 
 - **Download**:
-	- [0.14.1](https://github.com/brick9527/brick-bookmark/releases/tag/v0.14.1)
-	- [0.14.2-rc1](https://github.com/brick9527/brick-bookmark/releases/tag/v0.14.2-rc1)
+	- **Official Releases**
+		- [0.14.1](https://github.com/brick9527/brick-bookmark/releases/tag/v0.14.1)
+		- [0.14.2-rc1](https://github.com/brick9527/brick-bookmark/releases/tag/v0.14.2-rc1)
+	- **Chrome Web Store**: [Details](https://chromewebstore.google.com/detail/fjceacmceeocajhjeljmdhhdffegmbbe?utm_source=item-share-cb)
+	- **Firefox Add-ons**: [Details](https://addons.mozilla.org/zh-CN/firefox/addon/brickbookmark/)
 - **Donate**: [ko-fi@brick9527](https://ko-fi.com/brick9527)
 - **Issues & Feedback**:
 	- [Issue](https://github.com/brick9527/brick-bookmark/issues)

@@ -73,8 +73,11 @@
 ## 获取与支持
 
 - **下载**：
-	- [0.14.1](https://github.com/brick9527/brick-bookmark/releases/tag/v0.14.1)
-	- [0.14.2-rc1](https://github.com/brick9527/brick-bookmark/releases/tag/v0.14.2-rc1)
+	- **官方下载源**
+		- [0.14.1](https://github.com/brick9527/brick-bookmark/releases/tag/v0.14.1)
+		- [0.14.2-rc1](https://github.com/brick9527/brick-bookmark/releases/tag/v0.14.2-rc1)
+	- **Chrome商店安装地址**：[插件详情](https://chromewebstore.google.com/detail/fjceacmceeocajhjeljmdhhdffegmbbe?utm_source=item-share-cb)
+	- **FireFox商店安装地址**: [插件详情](https://addons.mozilla.org/zh-CN/firefox/addon/brickbookmark/)
 - **捐赠**：[ko-fi@brick9527](https://ko-fi.com/brick9527)
 - **问题&建议反馈**：
 	- [Issue](https://github.com/brick9527/brick-bookmark/issues)
