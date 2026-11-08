@@ -74,13 +74,14 @@ The `.bbmk` encrypted backup format lets you safely take your bookmark library o
 
 - **Download**:
 	- **Official Releases**
-		- [0.14.1](https://github.com/brick9527/brick-bookmark/releases/tag/v0.14.1)
-		- [0.14.2-rc1](https://github.com/brick9527/brick-bookmark/releases/tag/v0.14.2-rc1)
+		- [0.14.5](https://github.com/brick9527/brick_bookmark_profile/releases/tag/v0.14.5)
+		- [0.14.4](https://github.com/brick9527/brick_bookmark_profile/releases/tag/v0.14.4)
+		- [0.14.3](https://github.com/brick9527/brick_bookmark_profile/releases/tag/v0.14.3)
 	- **Chrome Web Store**: [Details](https://chromewebstore.google.com/detail/fjceacmceeocajhjeljmdhhdffegmbbe?utm_source=item-share-cb)
 	- **Firefox Add-ons**: [Details](https://addons.mozilla.org/zh-CN/firefox/addon/brickbookmark/)
 - **Donate**: [ko-fi@brick9527](https://ko-fi.com/brick9527)
 - **Issues & Feedback**:
-	- [Issue](https://github.com/brick9527/brick-bookmark/issues)
+	- [Issue](https://github.com/brick9527/brick_bookmark_profile/issues)
 	- Email: brick9527@foxmail.com
 
 ## About the Author
@@ -89,7 +90,7 @@ The `.bbmk` encrypted backup format lets you safely take your bookmark library o
 
 He was once a full-stack web developer; though he has since changed careers and his daily work has drifted far from code, his passion for building and creating has never faded. He doesn't chase grand visions — he simply wants to make something good, polish it into a deliverable, dependable piece of work, and hope that every use feels effortless and trustworthy. That is exactly what BrickBookmark means to him.
 
-If you have any questions or suggestions while using it, feel free to open an [Issue](https://github.com/brick9527/brick-bookmark/issues) or write to him at brick9527@foxmail.com.
+If you have any questions or suggestions while using it, feel free to open an [Issue](https://github.com/brick9527/brick_bookmark_profile/issues) or write to him at brick9527@foxmail.com.
 
 ---
 

@@ -74,13 +74,14 @@
 
 - **下载**：
 	- **官方下载源**
-		- [0.14.1](https://github.com/brick9527/brick-bookmark/releases/tag/v0.14.1)
-		- [0.14.2-rc1](https://github.com/brick9527/brick-bookmark/releases/tag/v0.14.2-rc1)
+		- [0.14.5](https://github.com/brick9527/brick_bookmark_profile/releases/tag/v0.14.5)
+		- [0.14.4](https://github.com/brick9527/brick_bookmark_profile/releases/tag/v0.14.4)
+		- [0.14.3](https://github.com/brick9527/brick_bookmark_profile/releases/tag/v0.14.3)
 	- **Chrome商店安装地址**：[插件详情](https://chromewebstore.google.com/detail/fjceacmceeocajhjeljmdhhdffegmbbe?utm_source=item-share-cb)
 	- **FireFox商店安装地址**: [插件详情](https://addons.mozilla.org/zh-CN/firefox/addon/brickbookmark/)
 - **捐赠**：[ko-fi@brick9527](https://ko-fi.com/brick9527)
 - **问题&建议反馈**：
-	- [Issue](https://github.com/brick9527/brick-bookmark/issues)
+	- [Issue](https://github.com/brick9527/brick_bookmark_profile/issues)
 	- 邮件: brick9527@foxmail.com
 
 ## 关于作者
@@ -89,7 +90,7 @@
 
 曾经也是一名互联网全栈开发；如今虽已转行，日常的工作与代码渐行渐远，但对开发与创造的兴趣从未减淡——不追求宏大，只求每一次使用都顺手、安心，想做一个好东西，并一点点打磨成可以交付的作品，这也是我对BrickBookmark的希冀。
 
-如果使用过程中有什么问题或者建议欢迎提出[Issue](https://github.com/brick9527/brick-bookmark/issues) 或写信给我: brick9527@foxmail.com。
+如果使用过程中有什么问题或者建议欢迎提出[Issue](https://github.com/brick9527/brick_bookmark_profile/issues) 或写信给我: brick9527@foxmail.com。
 
 ---
 
