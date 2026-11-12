@@ -115,4 +115,4 @@ The Extension is a productivity tool and **contains no adult content**. Because 
 If you have any questions about this Privacy Policy or data processing, or need to exercise personal data rights under applicable law, please contact us through the following channels, and we will respond in a timely manner in accordance with applicable laws:
 
 - Email: **brick9527@foxmail.com**
-- Open-source repository: [brick9527/brick-bookmark](https://github.com/brick9527/brick-bookmark/issues)
+- Open-source repository: [brick9527/brick_bookmark_profile](https://github.com/brick9527/brick_bookmark_profile/issues)
