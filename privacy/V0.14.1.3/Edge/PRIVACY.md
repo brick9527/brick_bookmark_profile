@@ -115,4 +115,4 @@
 如对本隐私政策或数据处理有疑问，或需依据适用法律行使个人数据相关权利，可通过以下方式与我们联系，我们将按适用法律及时响应：
 
 - 联系邮箱：**brick9527@foxmail.com**
-- 开源仓库：[brick9527/brick-bookmark](https://github.com/brick9527/brick-bookmark/issues)
+- 开源仓库：[brick9527/brick_bookmark_profile](https://github.com/brick9527/brick_bookmark_profile/issues)
