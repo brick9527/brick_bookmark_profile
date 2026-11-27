@@ -35,6 +35,8 @@ The Extension requests only the permissions essential for the functionality desc
 
 The Extension requests only the permissions essential for the functionality described above, and no permissions beyond its functional requirements.
 
+> Firefox provides the sidebar through `sidebar_action`, which needs no `sidePanel` permission; Firefox has no `favicon` permission, so site icons are rendered locally from page data.
+
 ### Firefox Data Collection Consent
 
 Firefox provides a built-in optional data collection permission mechanism (`browser_specific_settings.gecko.data_collection_permissions.optional`, declaring `authenticationInfo` / `personallyIdentifyingInfo` / `technicalAndInteraction`). Before **sign-in, registration, third-party sign-in, re-authorization for sensitive actions, and feedback submission**, the Firefox build requests consent via `browser.permissions.request({ data_collection: [...] })`:
