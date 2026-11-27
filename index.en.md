@@ -64,11 +64,11 @@ The `.bbmk` encrypted backup format lets you safely take your bookmark library o
 ## Security & Privacy
 
 - **Local by default**: core features collect, store, or upload no personal data; no ads, analytics, or tracking components
-- **Minimal permissions**: only the permissions strictly required (bookmarks, storage, side panel, tabs, favicon, alarms, and host access — used solely for user-triggered link checking and title refresh)
+- **Minimal permissions**: only the permissions strictly required (bookmarks, storage, side panel, tabs, favicon, third-party sign-in, and host access — used solely for user-triggered link checking and title refresh)
 - **Optional server features**: account login and feedback require explicit opt-in, fully encrypted over HTTPS; the server is hosted in Hong Kong, China, so enabling these features involves cross-border data transfer. When not in use, no personal data is transmitted (the management page does auto-fetch product announcements, which contain no personal data)
 - **Predictable network behavior**: apart from the above, network requests are only sent to the sites you choose when you actively run link checking or title refresh
 - **Uninstall = erase**: all local data is deleted when the extension is removed
-- **Privacy policy**: full disclosure in the [privacy policy (Chrome)](privacy/V1.0.0/Chrome/PRIVACY.en.md), with [Edge](privacy/V1.0.0/Edge/PRIVACY.en.md) and [Firefox](privacy/V1.0.0/Firefox/PRIVACY.en.md) versions.
+- **Privacy policy**: full disclosure in the [privacy policy (Chrome)](privacy/V1.1.0/Chrome/PRIVACY.en.md), with [Edge](privacy/V1.1.0/Edge/PRIVACY.en.md) and [Firefox](privacy/V1.1.0/Firefox/PRIVACY.en.md) versions.
 
 ## Download & Support
 
