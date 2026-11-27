@@ -68,15 +68,14 @@
 - **可选服务器功能**：账号登录与问题反馈需用户主动启用，全程 HTTPS 加密；服务器部署于中国香港地区，启用时相关数据将跨境传输。不使用服务器功能时不传输任何个人数据（管理页加载时会自动向服务器拉取产品公告，不含个人数据）
 - **可预期的网络行为**：除上述场景外，仅在你主动使用链接校验 / 标题刷新时，才会向指定目标网站发送请求
 - **卸载即清除**：本地数据随扩展卸载全部删除
-- **隐私政策**：完整披露见 [隐私政策（Chrome版）](privacy/V0.14.1.3/Chrome/PRIVACY.md)，另含 [Edge 版](privacy/V0.14.1.3/Edge/PRIVACY.md)、[Firefox 版](privacy/V0.14.1.3/Firefox/PRIVACY.md) 。
+- **隐私政策**：完整披露见 [隐私政策（Chrome版）](privacy/V1.0.0/Chrome/PRIVACY.md)，另含 [Edge 版](privacy/V1.0.0/Edge/PRIVACY.md)、[Firefox 版](privacy/V1.0.0/Firefox/PRIVACY.md) 。
 
 ## 获取与支持
 
 - **下载**：
 	- **官方下载源**
-		- [0.14.5](https://github.com/brick9527/brick_bookmark_profile/releases/tag/v0.14.5)
-		- [0.14.4](https://github.com/brick9527/brick_bookmark_profile/releases/tag/v0.14.4)
-		- [0.14.3](https://github.com/brick9527/brick_bookmark_profile/releases/tag/v0.14.3)
+		- [1.0.0](https://github.com/brick9527/brick_bookmark_profile/releases/tag/v1.0.0)（最新正式版）
+		- [0.14.5](https://github.com/brick9527/brick_bookmark_profile/releases/tag/v0.14.5)（上一版）
 	- **Chrome商店安装地址**：[插件详情](https://chromewebstore.google.com/detail/fjceacmceeocajhjeljmdhhdffegmbbe?utm_source=item-share-cb)
 	- **FireFox商店安装地址**: [插件详情](https://addons.mozilla.org/zh-CN/firefox/addon/brickbookmark/)
 - **捐赠**：[ko-fi@brick9527](https://ko-fi.com/brick9527)
